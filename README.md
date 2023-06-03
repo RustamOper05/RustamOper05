@@ -60,7 +60,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/RustamOper05/RustamOper05/output/snake.svg" alt="Snake animation" />
-
-###
