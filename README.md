@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/WebkwL-IkFUAAAAC/kitty.gif"  />
+  <img height="150" src="https://android-obzor.com/wp-content/uploads/2022/03/1601452265_13.jpg"  />
 </div>
 
 ###
