@@ -1,56 +1,60 @@
 <div align="center">
-  <img height="150" src="https://android-obzor.com/wp-content/uploads/2022/03/1601452265_13.jpg"  />
+  <h1>Rustam Sakhabutdinov</h1>
+  <p><b>ML Engineer</b></p>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Machine+Learning+Engineer;Computer+Vision;OCR+%26+Automation;Applied+ML+Systems"
+    alt="Machine Learning Engineer"
+  />
 </div>
 
-###
+<br />
 
 <div align="center">
-  <a href="https://sahabutdinov2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/Rustam_Sahabutdinov" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RustamOper05&amp;theme=github_dark"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RustamOper05&amp;theme=github_dark&amp;utcOffset=3"
+    alt="Productive time"
+  />
 </div>
 
-###
+<br />
 
-<h1 align="center">Hey there I'm Rustam</h1>
-
-###
-
-<h3 align="left">🛠 Languages and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="sdl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RustamOper05&amp;theme=github_dark"
+    alt="Profile details"
+  />
 </div>
 
-###
+<br />
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RustamOper05&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Graph"
+    alt="Contribution graph"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=RustamOper05&amp;hide_border=true&amp;background=00000000&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=58A6FF&amp;sideLabels=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;dates=8B949E"
+    alt="GitHub streak"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=RustamOper05&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6"
+    alt="GitHub trophies"
+  />
+</div>
