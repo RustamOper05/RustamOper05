@@ -12,8 +12,8 @@
 
 <div align="center">
   <img
-    src="https://ghchart.rshah.org/58A6FF/RustamOper05"
-    alt="GitHub contribution calendar"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RustamOper05&amp;bg_color=0d1117&amp;color=8b949e&amp;line=39d353&amp;point=39d353&amp;area=true&amp;area_color=39d353&amp;title_color=39d353&amp;hide_border=true&amp;radius=8&amp;custom_title=Contribution%20Graph"
+    alt="Contribution graph"
   />
 </div>
 
@@ -21,8 +21,7 @@
 
 <div align="center">
   <img
-    height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RustamOper05&amp;theme=github_dark&amp;utcOffset=3"
-    alt="Productive time"
+    src="https://github-profile-trophy.vercel.app/?username=RustamOper05&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6"
+    alt="GitHub trophies"
   />
 </div>
